@@ -24,6 +24,11 @@ curl --location --request POST 'http://localhost:3000/weather' \
 --data-raw '{ "location": "chennai" }'
 ```
 
+Timtaken API
+```
+open http://localhost:3000
+```
+
 Pending/Next steps
  - modularization
  - caching
