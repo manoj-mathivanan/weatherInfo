@@ -23,3 +23,10 @@ curl --location --request POST 'http://localhost:3000/weather' \
 --header 'Content-Type: application/json' \
 --data-raw '{ "location": "chennai" }'
 ```
+
+Pending/Next steps
+ - modularization
+ - caching
+ - error handling
+ - test cases
+ - add billing for API
